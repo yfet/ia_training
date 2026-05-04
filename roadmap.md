@@ -18,7 +18,7 @@
 - ⬜ Jour 3 — Fichiers CSV, JSON                              | Date : ____
 - ⬜ Jour 4    — List comprehensions, lambdas, gestion erreurs   | Date : ____
 - ⬜ Jour 5 — NumPy — tableaux et opérations vectorielles     | Date : ____
-- ⬜ Week-end — Mini-projet : script stats sur CSV              | Date : ____
+- ⬜ Application — Mini-projet : script stats sur CSV              | Date : ____
 
 Notes : _______________________________________________
 
@@ -28,7 +28,7 @@ Notes : _______________________________________________
 - ⬜ Jour 3 — Groupby, agrégations, pivot tables              | Date : ____
 - ⬜ Jour 4    — Visualisation Matplotlib                        | Date : ____
 - ⬜ Jour 5 — Nettoyage de données réelles                    | Date : ____
-- ⬜ Week-end — Projet : EDA dataset e-commerce                 | Date : ____
+- ⬜ Application — Projet : EDA dataset e-commerce                 | Date : ____
 
 Notes : _______________________________________________
 
@@ -38,7 +38,7 @@ Notes : _______________________________________________
 - ⬜ Jour 3 — Random Forest                                   | Date : ____
 - ⬜ Jour 4    — Métriques : accuracy, precision, recall, F1     | Date : ____
 - ⬜ Jour 5 — Cross-validation, overfitting                   | Date : ____
-- ⬜ Week-end — Projet : Prédiction de churn client             | Date : ____
+- ⬜ Application — Projet : Prédiction de churn client             | Date : ____
 
 Notes : _______________________________________________
 
@@ -48,7 +48,7 @@ Notes : _______________________________________________
 - ⬜ Jour 3 — Feature engineering, encodage, normalisation    | Date : ____
 - ⬜ Jour 4    — Pipeline scikit-learn                           | Date : ____
 - ⬜ Jour 5 — Sauvegarder / charger un modèle (joblib)        | Date : ____
-- ⬜ Week-end — Projet : Prédiction prix immobilier             | Date : ____
+- ⬜ Application — Projet : Prédiction prix immobilier             | Date : ____
 
 Notes : _______________________________________________
 
@@ -58,7 +58,7 @@ Notes : _______________________________________________
 - ⬜ Jour 3 — Choisir le bon modèle HF pour un cas business   | Date : ____
 - ⬜ Jour 4    — Documenter un projet ML (README pro)            | Date : ____
 - ⬜ Jour 5 — Push GitHub des 2 projets Phase 1               | Date : ____
-- ⬜ Week-end — Finalisation portfolio Phase 1                  | Date : ____
+- ⬜ Application — Finalisation portfolio Phase 1                  | Date : ____
 
 Notes : _______________________________________________
 
@@ -74,7 +74,7 @@ Notes : _______________________________________________
 - ⬜ Jour 3 — Tests unitaires basiques (pytest)               | Date : ____
 - ⬜ Jour 4    — MLflow : logger métriques, comparer runs        | Date : ____
 - ⬜ Jour 5 — MLflow Model Registry                           | Date : ____
-- ⬜ Week-end — Package Python propre (projet churn)            | Date : ____
+- ⬜ Application — Package Python propre (projet churn)            | Date : ____
 
 Notes : _______________________________________________
 
@@ -84,7 +84,7 @@ Notes : _______________________________________________
 - ⬜ Jour 3 — Charger le modèle au démarrage, gestion erreurs | Date : ____
 - ⬜ Jour 4    — Dockeriser l'API ML                             | Date : ____
 - ⬜ Jour 5 — Tests API avec curl et Postman                  | Date : ____
-- ⬜ Week-end — Projet : API de scoring de leads                | Date : ____
+- ⬜ Application — Projet : API de scoring de leads                | Date : ____
 
 Notes : _______________________________________________
 
@@ -94,7 +94,7 @@ Notes : _______________________________________________
 - ⬜ Jour 3 — Logging des prédictions en base                 | Date : ____
 - ⬜ Jour 4    — Monitoring basique, data drift (concept)        | Date : ____
 - ⬜ Jour 5 — Documentation API Swagger                       | Date : ____
-- ⬜ Week-end — API + frontend Next.js consommant l'API         | Date : ____
+- ⬜ Application — API + frontend Next.js consommant l'API         | Date : ____
 
 Notes : _______________________________________________
 
@@ -110,7 +110,7 @@ Notes : _______________________________________________
 - ⬜ Jour 3 — Backpropagation (comprendre le concept)         | Date : ____
 - ⬜ Jour 4    — PyTorch sur Colab — tenseurs, premier réseau    | Date : ____
 - ⬜ Jour 5 — Training loop : loss, optimizer                 | Date : ____
-- ⬜ Week-end — Réseau de prédiction simple (tabular)           | Date : ____
+- ⬜ Application — Réseau de prédiction simple (tabular)           | Date : ____
 
 Notes : _______________________________________________
 
@@ -120,7 +120,7 @@ Notes : _______________________________________________
 - ⬜ Jour 3 — Classification de texte avec modèle pré-entraîné| Date : ____
 - ⬜ Jour 4    — Embeddings texte — concept et usage pratique    | Date : ____
 - ⬜ Jour 5 — Comparer plusieurs modèles HF                   | Date : ____
-- ⬜ Week-end — Projet : Classifier avis clients avec HF        | Date : ____
+- ⬜ Application — Projet : Classifier avis clients avec HF        | Date : ____
 
 Notes : _______________________________________________
 
@@ -130,7 +130,7 @@ Notes : _______________________________________________
 - ⬜ Jour 3 — Révision Phases 1, 2, 3                         | Date : ____
 - ⬜ Jour 4    — Nettoyage et documentation GitHub               | Date : ____
 - ⬜ Jour 5 — Préparation Phase 4 (LLM, RAG, embeddings)      | Date : ____
-- ⬜ Week-end — Push final tous les projets Phases 1–3          | Date : ____
+- ⬜ Application — Push final tous les projets Phases 1–3          | Date : ____
 
 Notes : _______________________________________________
 
@@ -146,7 +146,7 @@ Notes : _______________________________________________
 - ⬜ Jour 3 — Prompt engineering (rôles, instructions, CoT)   | Date : ____
 - ⬜ Jour 4    — Prompt avancé : few-shot, JSON output           | Date : ____
 - ⬜ Jour 5 — Comparer GPT-4o vs Mistral vs Claude            | Date : ____
-- ⬜ Week-end — Assistant de rédaction avec historique de conv. | Date : ____
+- ⬜ Application — Assistant de rédaction avec historique de conv. | Date : ____
 
 Notes : _______________________________________________
 
@@ -156,7 +156,7 @@ Notes : _______________________________________________
 - ⬜ Jour 3 — ChromaDB : collection, ajout documents          | Date : ____
 - ⬜ Jour 4    — Similarity search — comment ça fonctionne       | Date : ____
 - ⬜ Jour 5 — ChromaDB vs Qdrant                              | Date : ____
-- ⬜ Week-end — Projet : moteur de recherche sémantique         | Date : ____
+- ⬜ Application — Projet : moteur de recherche sémantique         | Date : ____
 
 Notes : _______________________________________________
 
@@ -166,7 +166,7 @@ Notes : _______________________________________________
 - ⬜ Jour 3 — Pipeline RAG basique avec LlamaIndex            | Date : ____
 - ⬜ Jour 4    — Améliorer le retrieval (reranking, filtres)     | Date : ____
 - ⬜ Jour 5 — Évaluer un RAG — métriques de pertinence        | Date : ____
-- ⬜ Week-end — RAG sur un PDF métier                           | Date : ____
+- ⬜ Application — RAG sur un PDF métier                           | Date : ____
 
 Notes : _______________________________________________
 
@@ -176,7 +176,7 @@ Notes : _______________________________________________
 - ⬜ Jour 3 — Mémoire conversationnelle dans un RAG           | Date : ____
 - ⬜ Jour 4    — Sécurité données, filtrage par utilisateur      | Date : ____
 - ⬜ Jour 5 — Déployer le RAG comme API FastAPI               | Date : ____
-- ⬜ Week-end — Projet : Chatbot RAG documentation PME fictive  | Date : ____
+- ⬜ Application — Projet : Chatbot RAG documentation PME fictive  | Date : ____
 
 Notes : _______________________________________________
 
@@ -186,7 +186,7 @@ Notes : _______________________________________________
 - ⬜ Jour 3 — Connecter interface → backend RAG FastAPI       | Date : ____
 - ⬜ Jour 4    — Agents IA simples — concept et tools            | Date : ____
 - ⬜ Jour 5 — Agent avec outils (web search, fichier, calcul) | Date : ____
-- ⬜ Week-end — ⭐ PROJET CLÉ : Chatbot RAG complet Next.js     | Date : ____
+- ⬜ Application — ⭐ PROJET CLÉ : Chatbot RAG complet Next.js     | Date : ____
 
 Notes : _______________________________________________
 
@@ -196,7 +196,7 @@ Notes : _______________________________________________
 - ⬜ Jour 3 — Lancer et monitorer un fine-tuning job OpenAI   | Date : ____
 - ⬜ Jour 4    — Tester modèle fine-tuné vs modèle de base       | Date : ____
 - ⬜ Jour 5 — Cas d'usage vendables du fine-tuning            | Date : ____
-- ⬜ Week-end — Fine-tuning sur dataset classification emails   | Date : ____
+- ⬜ Application — Fine-tuning sur dataset classification emails   | Date : ____
 
 Notes : _______________________________________________
 
@@ -206,7 +206,7 @@ Notes : _______________________________________________
 - ⬜ Jour 3 — Webhook → IA → réponse automatique              | Date : ____
 - ⬜ Jour 4    — Automatisation #1 : résumé automatique PDF      | Date : ____
 - ⬜ Jour 5 — Automatisation #2 : qualification de leads      | Date : ____
-- ⬜ Week-end — Démo n8n packagée pour client                   | Date : ____
+- ⬜ Application — Démo n8n packagée pour client                   | Date : ____
 
 Notes : _______________________________________________
 
@@ -302,7 +302,7 @@ Solution retenue dans cette roadmap :
 ## ⏱️ Organisation hebdomadaire type
 
 - **Jour 1 – Jour 5 (1h/jour)** : Concept + code guidé (fourni par Claude)
-- **Week-end (3h)** : Construction du projet de la semaine
+- **Application (3h)** : Construction du projet de la semaine
 
 → **Résultat** : un livrable concret toutes les 1–2 semaines.
 
@@ -341,7 +341,7 @@ Solution retenue dans cette roadmap :
 - Jour 3 : Fichiers CSV, JSON — lecture et écriture
 - Jour 4 : List comprehensions, lambdas, gestion d'erreurs
 - Jour 5 : NumPy — tableaux, opérations vectorielles
-- Week-end : Mini-projet — script stats sur CSV
+- Application : Mini-projet — script stats sur CSV
 
 → Claude fournit : dataset CSV (ventes fictives), squelette du script, consignes
 
@@ -351,7 +351,7 @@ Solution retenue dans cette roadmap :
 - Jour 3 : Groupby, agrégations, pivot tables
 - Jour 4 : Visualisation avec Matplotlib (graphiques basiques)
 - Jour 5 : Nettoyage de données (duplicates, types, outliers)
-- Week-end : Projet — EDA dataset e-commerce
+- Application : Projet — EDA dataset e-commerce
 
 → Claude fournit : dataset clients + commandes (CSV), notebook de départ
 
@@ -361,7 +361,7 @@ Solution retenue dans cette roadmap :
 - Jour 3 : Random Forest
 - Jour 4 : Métriques : accuracy, precision, recall, F1, matrice de confusion
 - Jour 5 : Cross-validation, overfitting, underfitting
-- Week-end : Projet — Prédiction de churn client
+- Application : Projet — Prédiction de churn client
 
 → Claude fournit : dataset churn (Telco Customer Churn), notebook guidé
 
@@ -371,7 +371,7 @@ Solution retenue dans cette roadmap :
 - Jour 3 : Feature engineering — encodage, normalisation
 - Jour 4 : Pipeline scikit-learn
 - Jour 5 : Sauvegarder / charger un modèle (joblib)
-- Week-end : Projet — Prédiction du prix d'un bien immobilier
+- Application : Projet — Prédiction du prix d'un bien immobilier
 
 → Claude fournit : dataset immobilier, pipeline de départ
 
@@ -381,7 +381,7 @@ Solution retenue dans cette roadmap :
 - Jour 3 : Choisir le bon modèle pour un cas business
 - Jour 4 : Documenter un projet ML (README professionnel)
 - Jour 5 : Push GitHub des 2 projets Phase 1
-- Week-end : Finalisation portfolio Phase 1
+- Application : Finalisation portfolio Phase 1
 
 **Livrables Phase 1**
 - ✅ GitHub public — 2 projets ML documentés
@@ -405,7 +405,7 @@ Solution retenue dans cette roadmap :
 - Jour 3 : Tests unitaires basiques (pytest)
 - Jour 4 : MLflow — logger métriques, comparer des runs
 - Jour 5 : MLflow Model Registry
-- Week-end : Package Python propre
+- Application : Package Python propre
 
 → Claude fournit : structure de dossiers type, templates de scripts
 
@@ -415,7 +415,7 @@ Solution retenue dans cette roadmap :
 - Jour 3 : Charger le modèle au démarrage, gestion des erreurs
 - Jour 4 : Dockeriser l'API ML
 - Jour 5 : Tests avec curl et Postman
-- Week-end : Projet — API de scoring de leads
+- Application : Projet — API de scoring de leads
 
 → Claude fournit : dataset scoring leads, code FastAPI de départ, Dockerfile
 
@@ -425,7 +425,7 @@ Solution retenue dans cette roadmap :
 - Jour 3 : Logging des prédictions en base
 - Jour 4 : Monitoring basique — data drift (concept + implémentation)
 - Jour 5 : Documentation Swagger
-- Week-end : API déployée + frontend Next.js consommant l'API
+- Application : API déployée + frontend Next.js consommant l'API
 
 → Claude fournit : frontend Next.js de démo, instructions de connexion
 
@@ -451,7 +451,7 @@ Solution retenue dans cette roadmap :
 - Jour 3 : Backpropagation (comprendre, pas démontrer)
 - Jour 4 : PyTorch sur Colab — tenseurs, premier réseau
 - Jour 5 : Training loop — loss, optimizer
-- Week-end : Réseau de prédiction simple (tabular)
+- Application : Réseau de prédiction simple (tabular)
 
 → Claude fournit : notebook Colab de départ, dataset, consignes
 
@@ -461,7 +461,7 @@ Solution retenue dans cette roadmap :
 - Jour 3 : Classification de texte avec modèle pré-entraîné
 - Jour 4 : Embeddings texte — concept et utilisation
 - Jour 5 : Tester plusieurs modèles HF
-- Week-end : Projet — Classifier avis clients avec HF
+- Application : Projet — Classifier avis clients avec HF
 
 → Claude fournit : dataset d'avis clients, notebook Colab
 
@@ -471,7 +471,7 @@ Solution retenue dans cette roadmap :
 - Jour 3 : Révision Phases 1, 2, 3
 - Jour 4 : Nettoyage et documentation GitHub
 - Jour 5 : Préparation Phase 4
-- Week-end : Push final projets Phases 1–3
+- Application : Push final projets Phases 1–3
 
 **Livrables Phase 3**
 - ✅ Notebook Colab PyTorch (prédiction)
@@ -493,7 +493,7 @@ Solution retenue dans cette roadmap :
 - Jour 3 : Prompt engineering (rôles, CoT, instructions claires)
 - Jour 4 : Prompt avancé (few-shot, JSON output, contraintes)
 - Jour 5 : Comparer GPT-4o vs Mistral vs Claude
-- Week-end : Assistant de rédaction avec historique de conversation
+- Application : Assistant de rédaction avec historique de conversation
 
 → Claude fournit : starter code Python, templates de prompts, cas de test
 
@@ -503,7 +503,7 @@ Solution retenue dans cette roadmap :
 - Jour 3 : ChromaDB — collection, ajout documents
 - Jour 4 : Similarity search
 - Jour 5 : ChromaDB vs Qdrant
-- Week-end : Moteur de recherche sémantique
+- Application : Moteur de recherche sémantique
 
 → Claude fournit : corpus 50 documents, code ChromaDB de départ
 
@@ -513,7 +513,7 @@ Solution retenue dans cette roadmap :
 - Jour 3 : Pipeline RAG basique avec LlamaIndex
 - Jour 4 : Améliorer le retrieval (reranking, filtres)
 - Jour 5 : Évaluer un RAG — métriques
-- Week-end : RAG sur un PDF métier
+- Application : RAG sur un PDF métier
 
 → Claude fournit : PDF 20 pages (doc fictive), code LlamaIndex de départ
 
@@ -523,7 +523,7 @@ Solution retenue dans cette roadmap :
 - Jour 3 : Mémoire conversationnelle
 - Jour 4 : Sécurité — filtrage données, confidentialité
 - Jour 5 : Déployer le RAG comme API FastAPI
-- Week-end : Chatbot RAG documentation PME fictive
+- Application : Chatbot RAG documentation PME fictive
 
 → Claude fournit : 5 PDFs métier, code complet de départ
 
@@ -533,7 +533,7 @@ Solution retenue dans cette roadmap :
 - Jour 3 : Connecter interface → backend RAG FastAPI
 - Jour 4 : Agents IA simples — concept et tools
 - Jour 5 : Agent avec outils (web search, fichier, calcul)
-- Week-end : ⭐ **PROJET CLÉ** — Chatbot RAG complet Next.js déployé en ligne
+- Application : ⭐ **PROJET CLÉ** — Chatbot RAG complet Next.js déployé en ligne
 
 → Claude fournit : template Next.js de départ, code agent, instructions déploiement
 
@@ -543,7 +543,7 @@ Solution retenue dans cette roadmap :
 - Jour 3 : Lancer et monitorer un fine-tuning job OpenAI
 - Jour 4 : Tester modèle fine-tuné vs modèle de base
 - Jour 5 : Cas d'usage vendables du fine-tuning
-- Week-end : Fine-tuning classification emails client
+- Application : Fine-tuning classification emails client
 
 → Claude fournit : dataset JSONL prêt (200 exemples), instructions complètes
 
@@ -553,7 +553,7 @@ Solution retenue dans cette roadmap :
 - Jour 3 : Webhook → IA → réponse automatique
 - Jour 4 : Automatisation vendable #1 — résumé automatique PDF
 - Jour 5 : Automatisation vendable #2 — qualification de leads
-- Week-end : Démo n8n packagée pour client
+- Application : Démo n8n packagée pour client
 
 → Claude fournit : workflows n8n exportables (.json), instructions
 
