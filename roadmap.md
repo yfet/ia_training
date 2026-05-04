@@ -13,54 +13,69 @@
 ### 🟢 Phase 1 — Fondations ML (5 semaines)
 
 #### Semaine 1 — Python pour développeur
-- ✅ Jour 1    — Types, listes, dicts, fonctions, classes        | Date : 2026-05-04
-- ⬜ Jour 2    — Modules, pip, environnements virtuels           | Date : ____
-- ⬜ Jour 3 — Fichiers CSV, JSON                              | Date : ____
-- ⬜ Jour 4    — List comprehensions, lambdas, gestion erreurs   | Date : ____
-- ⬜ Jour 5 — NumPy — tableaux et opérations vectorielles     | Date : ____
-- ⬜ Application — Mini-projet : script stats sur CSV              | Date : ____
 
-Notes : _______________________________________________
+| Statut | Jour        | Sujet                                              | Date       |
+|:------:|-------------|----------------------------------------------------|------------|
+|   ✅   | Jour 1      | Types, listes, dicts, fonctions, classes           | 2026-05-04 |
+|   ⬜   | Jour 2      | Modules, pip, environnements virtuels              | —          |
+|   ⬜   | Jour 3      | Fichiers CSV, JSON                                 | —          |
+|   ⬜   | Jour 4      | List comprehensions, lambdas, gestion erreurs      | —          |
+|   ⬜   | Jour 5      | NumPy — tableaux et opérations vectorielles        | —          |
+|   ⬜   | Application | Mini-projet : script stats sur CSV                 | —          |
+
+**Notes** : _______________________________________________
 
 #### Semaine 2 — Pandas & Exploration de données
-- ⬜ Jour 1    — DataFrame, Series, read_csv, head/info          | Date : ____
-- ⬜ Jour 2    — Filtres, colonnes, valeurs manquantes           | Date : ____
-- ⬜ Jour 3 — Groupby, agrégations, pivot tables              | Date : ____
-- ⬜ Jour 4    — Visualisation Matplotlib                        | Date : ____
-- ⬜ Jour 5 — Nettoyage de données réelles                    | Date : ____
-- ⬜ Application — Projet : EDA dataset e-commerce                 | Date : ____
 
-Notes : _______________________________________________
+| Statut | Jour        | Sujet                                              | Date |
+|:------:|-------------|----------------------------------------------------|------|
+|   ⬜   | Jour 1      | DataFrame, Series, read_csv, head/info             | —    |
+|   ⬜   | Jour 2      | Filtres, colonnes, valeurs manquantes              | —    |
+|   ⬜   | Jour 3      | Groupby, agrégations, pivot tables                 | —    |
+|   ⬜   | Jour 4      | Visualisation Matplotlib                           | —    |
+|   ⬜   | Jour 5      | Nettoyage de données réelles                       | —    |
+|   ⬜   | Application | Projet : EDA dataset e-commerce                    | —    |
+
+**Notes** : _______________________________________________
 
 #### Semaine 3 — scikit-learn : Classification
-- ⬜ Jour 1    — ML supervisé, features, labels, train/test      | Date : ____
-- ⬜ Jour 2    — Régression logistique                           | Date : ____
-- ⬜ Jour 3 — Random Forest                                   | Date : ____
-- ⬜ Jour 4    — Métriques : accuracy, precision, recall, F1     | Date : ____
-- ⬜ Jour 5 — Cross-validation, overfitting                   | Date : ____
-- ⬜ Application — Projet : Prédiction de churn client             | Date : ____
 
-Notes : _______________________________________________
+| Statut | Jour        | Sujet                                              | Date |
+|:------:|-------------|----------------------------------------------------|------|
+|   ⬜   | Jour 1      | ML supervisé, features, labels, train/test         | —    |
+|   ⬜   | Jour 2      | Régression logistique                              | —    |
+|   ⬜   | Jour 3      | Random Forest                                      | —    |
+|   ⬜   | Jour 4      | Métriques : accuracy, precision, recall, F1        | —    |
+|   ⬜   | Jour 5      | Cross-validation, overfitting                      | —    |
+|   ⬜   | Application | Projet : Prédiction de churn client                | —    |
+
+**Notes** : _______________________________________________
 
 #### Semaine 4 — scikit-learn : Régression & Pipelines
-- ⬜ Jour 1    — Régression linéaire, Ridge, Lasso               | Date : ____
-- ⬜ Jour 2    — Métriques régression : MAE, MSE, R²             | Date : ____
-- ⬜ Jour 3 — Feature engineering, encodage, normalisation    | Date : ____
-- ⬜ Jour 4    — Pipeline scikit-learn                           | Date : ____
-- ⬜ Jour 5 — Sauvegarder / charger un modèle (joblib)        | Date : ____
-- ⬜ Application — Projet : Prédiction prix immobilier             | Date : ____
 
-Notes : _______________________________________________
+| Statut | Jour        | Sujet                                              | Date |
+|:------:|-------------|----------------------------------------------------|------|
+|   ⬜   | Jour 1      | Régression linéaire, Ridge, Lasso                  | —    |
+|   ⬜   | Jour 2      | Métriques régression : MAE, MSE, R²                | —    |
+|   ⬜   | Jour 3      | Feature engineering, encodage, normalisation       | —    |
+|   ⬜   | Jour 4      | Pipeline scikit-learn                              | —    |
+|   ⬜   | Jour 5      | Sauvegarder / charger un modèle (joblib)           | —    |
+|   ⬜   | Application | Projet : Prédiction prix immobilier                | —    |
+
+**Notes** : _______________________________________________
 
 #### Semaine 5 — Hugging Face Hub & Consolidation
-- ⬜ Jour 1    — Découverte du Hub, modèles, datasets, Spaces    | Date : ____
-- ⬜ Jour 2    — Hugging Face Inference API (requête HTTP)       | Date : ____
-- ⬜ Jour 3 — Choisir le bon modèle HF pour un cas business   | Date : ____
-- ⬜ Jour 4    — Documenter un projet ML (README pro)            | Date : ____
-- ⬜ Jour 5 — Push GitHub des 2 projets Phase 1               | Date : ____
-- ⬜ Application — Finalisation portfolio Phase 1                  | Date : ____
 
-Notes : _______________________________________________
+| Statut | Jour        | Sujet                                              | Date |
+|:------:|-------------|----------------------------------------------------|------|
+|   ⬜   | Jour 1      | Découverte du Hub, modèles, datasets, Spaces       | —    |
+|   ⬜   | Jour 2      | Hugging Face Inference API (requête HTTP)          | —    |
+|   ⬜   | Jour 3      | Choisir le bon modèle HF pour un cas business      | —    |
+|   ⬜   | Jour 4      | Documenter un projet ML (README pro)               | —    |
+|   ⬜   | Jour 5      | Push GitHub des 2 projets Phase 1                  | —    |
+|   ⬜   | Application | Finalisation portfolio Phase 1                     | —    |
+
+**Notes** : _______________________________________________
 
 ✅ **PHASE 1 TERMINÉE le** : ____________
 
@@ -69,34 +84,43 @@ Notes : _______________________________________________
 ### 🟡 Phase 2 — ML Engineering / Production (3 semaines)
 
 #### Semaine 6 — De Jupyter à un projet structuré
-- ⬜ Jour 1    — Structure projet ML (src/, data/, models/...)   | Date : ____
-- ⬜ Jour 2    — Refactoring notebook churn en scripts Python    | Date : ____
-- ⬜ Jour 3 — Tests unitaires basiques (pytest)               | Date : ____
-- ⬜ Jour 4    — MLflow : logger métriques, comparer runs        | Date : ____
-- ⬜ Jour 5 — MLflow Model Registry                           | Date : ____
-- ⬜ Application — Package Python propre (projet churn)            | Date : ____
 
-Notes : _______________________________________________
+| Statut | Jour        | Sujet                                              | Date |
+|:------:|-------------|----------------------------------------------------|------|
+|   ⬜   | Jour 1      | Structure projet ML (src/, data/, models/...)      | —    |
+|   ⬜   | Jour 2      | Refactoring notebook churn en scripts Python       | —    |
+|   ⬜   | Jour 3      | Tests unitaires basiques (pytest)                  | —    |
+|   ⬜   | Jour 4      | MLflow : logger métriques, comparer runs           | —    |
+|   ⬜   | Jour 5      | MLflow Model Registry                              | —    |
+|   ⬜   | Application | Package Python propre (projet churn)               | —    |
+
+**Notes** : _______________________________________________
 
 #### Semaine 7 — API ML avec FastAPI
-- ⬜ Jour 1    — FastAPI, endpoint /predict                      | Date : ____
-- ⬜ Jour 2    — Validation inputs avec Pydantic                 | Date : ____
-- ⬜ Jour 3 — Charger le modèle au démarrage, gestion erreurs | Date : ____
-- ⬜ Jour 4    — Dockeriser l'API ML                             | Date : ____
-- ⬜ Jour 5 — Tests API avec curl et Postman                  | Date : ____
-- ⬜ Application — Projet : API de scoring de leads                | Date : ____
 
-Notes : _______________________________________________
+| Statut | Jour        | Sujet                                              | Date |
+|:------:|-------------|----------------------------------------------------|------|
+|   ⬜   | Jour 1      | FastAPI, endpoint /predict                         | —    |
+|   ⬜   | Jour 2      | Validation inputs avec Pydantic                    | —    |
+|   ⬜   | Jour 3      | Charger le modèle au démarrage, gestion erreurs    | —    |
+|   ⬜   | Jour 4      | Dockeriser l'API ML                                | —    |
+|   ⬜   | Jour 5      | Tests API avec curl et Postman                     | —    |
+|   ⬜   | Application | Projet : API de scoring de leads                   | —    |
+
+**Notes** : _______________________________________________
 
 #### Semaine 8 — Déploiement & Monitoring
-- ⬜ Jour 1    — Déploiement Railway                             | Date : ____
-- ⬜ Jour 2    — Variables d'env, secrets, health checks         | Date : ____
-- ⬜ Jour 3 — Logging des prédictions en base                 | Date : ____
-- ⬜ Jour 4    — Monitoring basique, data drift (concept)        | Date : ____
-- ⬜ Jour 5 — Documentation API Swagger                       | Date : ____
-- ⬜ Application — API + frontend Next.js consommant l'API         | Date : ____
 
-Notes : _______________________________________________
+| Statut | Jour        | Sujet                                              | Date |
+|:------:|-------------|----------------------------------------------------|------|
+|   ⬜   | Jour 1      | Déploiement Railway                                | —    |
+|   ⬜   | Jour 2      | Variables d'env, secrets, health checks            | —    |
+|   ⬜   | Jour 3      | Logging des prédictions en base                    | —    |
+|   ⬜   | Jour 4      | Monitoring basique, data drift (concept)           | —    |
+|   ⬜   | Jour 5      | Documentation API Swagger                          | —    |
+|   ⬜   | Application | API + frontend Next.js consommant l'API            | —    |
+
+**Notes** : _______________________________________________
 
 ✅ **PHASE 2 TERMINÉE le** : ____________
 
@@ -105,34 +129,43 @@ Notes : _______________________________________________
 ### 🔵 Phase 3 — Deep Learning Essentiel (3 semaines) — Google Colab
 
 #### Semaine 9 — Concepts réseaux de neurones
-- ⬜ Jour 1    — Neurone, perceptron, activation functions       | Date : ____
-- ⬜ Jour 2    — Architecture réseau dense                       | Date : ____
-- ⬜ Jour 3 — Backpropagation (comprendre le concept)         | Date : ____
-- ⬜ Jour 4    — PyTorch sur Colab — tenseurs, premier réseau    | Date : ____
-- ⬜ Jour 5 — Training loop : loss, optimizer                 | Date : ____
-- ⬜ Application — Réseau de prédiction simple (tabular)           | Date : ____
 
-Notes : _______________________________________________
+| Statut | Jour        | Sujet                                              | Date |
+|:------:|-------------|----------------------------------------------------|------|
+|   ⬜   | Jour 1      | Neurone, perceptron, activation functions          | —    |
+|   ⬜   | Jour 2      | Architecture réseau dense                          | —    |
+|   ⬜   | Jour 3      | Backpropagation (comprendre le concept)            | —    |
+|   ⬜   | Jour 4      | PyTorch sur Colab — tenseurs, premier réseau       | —    |
+|   ⬜   | Jour 5      | Training loop : loss, optimizer                    | —    |
+|   ⬜   | Application | Réseau de prédiction simple (tabular)              | —    |
+
+**Notes** : _______________________________________________
 
 #### Semaine 10 — Hugging Face Transformers
-- ⬜ Jour 1    — Architecture Transformer (concept, sans maths)  | Date : ____
-- ⬜ Jour 2    — HF pipeline() — modèle en 3 lignes              | Date : ____
-- ⬜ Jour 3 — Classification de texte avec modèle pré-entraîné| Date : ____
-- ⬜ Jour 4    — Embeddings texte — concept et usage pratique    | Date : ____
-- ⬜ Jour 5 — Comparer plusieurs modèles HF                   | Date : ____
-- ⬜ Application — Projet : Classifier avis clients avec HF        | Date : ____
 
-Notes : _______________________________________________
+| Statut | Jour        | Sujet                                              | Date |
+|:------:|-------------|----------------------------------------------------|------|
+|   ⬜   | Jour 1      | Architecture Transformer (concept, sans maths)     | —    |
+|   ⬜   | Jour 2      | HF pipeline() — modèle en 3 lignes                 | —    |
+|   ⬜   | Jour 3      | Classification de texte avec modèle pré-entraîné   | —    |
+|   ⬜   | Jour 4      | Embeddings texte — concept et usage pratique       | —    |
+|   ⬜   | Jour 5      | Comparer plusieurs modèles HF                      | —    |
+|   ⬜   | Application | Projet : Classifier avis clients avec HF           | —    |
+
+**Notes** : _______________________________________________
 
 #### Semaine 11 — DL vs ML + Consolidation
-- ⬜ Jour 1    — Tableau de décision DL vs ML classique          | Date : ____
-- ⬜ Jour 2    — Présenter le choix à un client non-technique    | Date : ____
-- ⬜ Jour 3 — Révision Phases 1, 2, 3                         | Date : ____
-- ⬜ Jour 4    — Nettoyage et documentation GitHub               | Date : ____
-- ⬜ Jour 5 — Préparation Phase 4 (LLM, RAG, embeddings)      | Date : ____
-- ⬜ Application — Push final tous les projets Phases 1–3          | Date : ____
 
-Notes : _______________________________________________
+| Statut | Jour        | Sujet                                              | Date |
+|:------:|-------------|----------------------------------------------------|------|
+|   ⬜   | Jour 1      | Tableau de décision DL vs ML classique             | —    |
+|   ⬜   | Jour 2      | Présenter le choix à un client non-technique       | —    |
+|   ⬜   | Jour 3      | Révision Phases 1, 2, 3                            | —    |
+|   ⬜   | Jour 4      | Nettoyage et documentation GitHub                  | —    |
+|   ⬜   | Jour 5      | Préparation Phase 4 (LLM, RAG, embeddings)         | —    |
+|   ⬜   | Application | Push final tous les projets Phases 1–3             | —    |
+
+**Notes** : _______________________________________________
 
 ✅ **PHASE 3 TERMINÉE le** : ____________
 
@@ -141,79 +174,103 @@ Notes : _______________________________________________
 ### 🟣 Phase 4 — LLM & AI Engineering — Zone payante (8 semaines)
 
 #### Semaine 12 — Fondations LLM
-- ⬜ Jour 1    — Fonctionnement LLM, tokenisation, température   | Date : ____
-- ⬜ Jour 2    — Appeler APIs OpenAI et Mistral en Python        | Date : ____
-- ⬜ Jour 3 — Prompt engineering (rôles, instructions, CoT)   | Date : ____
-- ⬜ Jour 4    — Prompt avancé : few-shot, JSON output           | Date : ____
-- ⬜ Jour 5 — Comparer GPT-4o vs Mistral vs Claude            | Date : ____
-- ⬜ Application — Assistant de rédaction avec historique de conv. | Date : ____
 
-Notes : _______________________________________________
+| Statut | Jour        | Sujet                                              | Date |
+|:------:|-------------|----------------------------------------------------|------|
+|   ⬜   | Jour 1      | Fonctionnement LLM, tokenisation, température      | —    |
+|   ⬜   | Jour 2      | Appeler APIs OpenAI et Mistral en Python           | —    |
+|   ⬜   | Jour 3      | Prompt engineering (rôles, instructions, CoT)      | —    |
+|   ⬜   | Jour 4      | Prompt avancé : few-shot, JSON output              | —    |
+|   ⬜   | Jour 5      | Comparer GPT-4o vs Mistral vs Claude               | —    |
+|   ⬜   | Application | Assistant de rédaction avec historique de conv.    | —    |
+
+**Notes** : _______________________________________________
 
 #### Semaine 13 — Embeddings & Bases vectorielles
-- ⬜ Jour 1    — Concept d'embedding (texte → vecteur)           | Date : ____
-- ⬜ Jour 2    — Embeddings API OpenAI (text-embedding-3-small)  | Date : ____
-- ⬜ Jour 3 — ChromaDB : collection, ajout documents          | Date : ____
-- ⬜ Jour 4    — Similarity search — comment ça fonctionne       | Date : ____
-- ⬜ Jour 5 — ChromaDB vs Qdrant                              | Date : ____
-- ⬜ Application — Projet : moteur de recherche sémantique         | Date : ____
 
-Notes : _______________________________________________
+| Statut | Jour        | Sujet                                              | Date |
+|:------:|-------------|----------------------------------------------------|------|
+|   ⬜   | Jour 1      | Concept d'embedding (texte → vecteur)              | —    |
+|   ⬜   | Jour 2      | Embeddings API OpenAI (text-embedding-3-small)     | —    |
+|   ⬜   | Jour 3      | ChromaDB : collection, ajout documents             | —    |
+|   ⬜   | Jour 4      | Similarity search — comment ça fonctionne          | —    |
+|   ⬜   | Jour 5      | ChromaDB vs Qdrant                                 | —    |
+|   ⬜   | Application | Projet : moteur de recherche sémantique            | —    |
+
+**Notes** : _______________________________________________
 
 #### Semaine 14 — RAG Partie 1
-- ⬜ Jour 1    — Architecture RAG (indexation, retrieval, gen.)  | Date : ____
-- ⬜ Jour 2    — Chunking de documents (stratégies)              | Date : ____
-- ⬜ Jour 3 — Pipeline RAG basique avec LlamaIndex            | Date : ____
-- ⬜ Jour 4    — Améliorer le retrieval (reranking, filtres)     | Date : ____
-- ⬜ Jour 5 — Évaluer un RAG — métriques de pertinence        | Date : ____
-- ⬜ Application — RAG sur un PDF métier                           | Date : ____
 
-Notes : _______________________________________________
+| Statut | Jour        | Sujet                                              | Date |
+|:------:|-------------|----------------------------------------------------|------|
+|   ⬜   | Jour 1      | Architecture RAG (indexation, retrieval, gen.)     | —    |
+|   ⬜   | Jour 2      | Chunking de documents (stratégies)                 | —    |
+|   ⬜   | Jour 3      | Pipeline RAG basique avec LlamaIndex               | —    |
+|   ⬜   | Jour 4      | Améliorer le retrieval (reranking, filtres)        | —    |
+|   ⬜   | Jour 5      | Évaluer un RAG — métriques de pertinence           | —    |
+|   ⬜   | Application | RAG sur un PDF métier                              | —    |
+
+**Notes** : _______________________________________________
 
 #### Semaine 15 — RAG Partie 2
-- ⬜ Jour 1    — RAG multi-documents                             | Date : ____
-- ⬜ Jour 2    — Citations et sourcing des réponses              | Date : ____
-- ⬜ Jour 3 — Mémoire conversationnelle dans un RAG           | Date : ____
-- ⬜ Jour 4    — Sécurité données, filtrage par utilisateur      | Date : ____
-- ⬜ Jour 5 — Déployer le RAG comme API FastAPI               | Date : ____
-- ⬜ Application — Projet : Chatbot RAG documentation PME fictive  | Date : ____
 
-Notes : _______________________________________________
+| Statut | Jour        | Sujet                                              | Date |
+|:------:|-------------|----------------------------------------------------|------|
+|   ⬜   | Jour 1      | RAG multi-documents                                | —    |
+|   ⬜   | Jour 2      | Citations et sourcing des réponses                 | —    |
+|   ⬜   | Jour 3      | Mémoire conversationnelle dans un RAG              | —    |
+|   ⬜   | Jour 4      | Sécurité données, filtrage par utilisateur         | —    |
+|   ⬜   | Jour 5      | Déployer le RAG comme API FastAPI                  | —    |
+|   ⬜   | Application | Projet : Chatbot RAG documentation PME fictive     | —    |
+
+**Notes** : _______________________________________________
 
 #### Semaine 16 — Interface Next.js + Agents IA
-- ⬜ Jour 1    — Vercel AI SDK, useChat, streaming réponses      | Date : ____
-- ⬜ Jour 2    — Interface chatbot avec Next.js App Router       | Date : ____
-- ⬜ Jour 3 — Connecter interface → backend RAG FastAPI       | Date : ____
-- ⬜ Jour 4    — Agents IA simples — concept et tools            | Date : ____
-- ⬜ Jour 5 — Agent avec outils (web search, fichier, calcul) | Date : ____
-- ⬜ Application — ⭐ PROJET CLÉ : Chatbot RAG complet Next.js     | Date : ____
 
-Notes : _______________________________________________
+| Statut | Jour        | Sujet                                              | Date |
+|:------:|-------------|----------------------------------------------------|------|
+|   ⬜   | Jour 1      | Vercel AI SDK, useChat, streaming réponses         | —    |
+|   ⬜   | Jour 2      | Interface chatbot avec Next.js App Router          | —    |
+|   ⬜   | Jour 3      | Connecter interface → backend RAG FastAPI          | —    |
+|   ⬜   | Jour 4      | Agents IA simples — concept et tools               | —    |
+|   ⬜   | Jour 5      | Agent avec outils (web search, fichier, calcul)    | —    |
+|   ⬜   | Application | ⭐ PROJET CLÉ : Chatbot RAG complet Next.js         | —    |
+
+**Notes** : _______________________________________________
 
 #### Semaine 17 — Fine-tuning basique
-- ⬜ Jour 1    — Fine-tuning vs prompt engineering, quand l'utiliser| Date : ____
-- ⬜ Jour 2    — Préparer un dataset JSONL (format OpenAI)       | Date : ____
-- ⬜ Jour 3 — Lancer et monitorer un fine-tuning job OpenAI   | Date : ____
-- ⬜ Jour 4    — Tester modèle fine-tuné vs modèle de base       | Date : ____
-- ⬜ Jour 5 — Cas d'usage vendables du fine-tuning            | Date : ____
-- ⬜ Application — Fine-tuning sur dataset classification emails   | Date : ____
 
-Notes : _______________________________________________
+| Statut | Jour        | Sujet                                              | Date |
+|:------:|-------------|----------------------------------------------------|------|
+|   ⬜   | Jour 1      | Fine-tuning vs prompt engineering, quand l'utiliser| —    |
+|   ⬜   | Jour 2      | Préparer un dataset JSONL (format OpenAI)          | —    |
+|   ⬜   | Jour 3      | Lancer et monitorer un fine-tuning job OpenAI      | —    |
+|   ⬜   | Jour 4      | Tester modèle fine-tuné vs modèle de base          | —    |
+|   ⬜   | Jour 5      | Cas d'usage vendables du fine-tuning               | —    |
+|   ⬜   | Application | Fine-tuning sur dataset classification emails      | —    |
+
+**Notes** : _______________________________________________
 
 #### Semaine 18 — n8n + Automatisation IA
-- ⬜ Jour 1    — n8n en local (Docker) — workflow basique        | Date : ____
-- ⬜ Jour 2    — Intégrer un LLM dans un workflow n8n            | Date : ____
-- ⬜ Jour 3 — Webhook → IA → réponse automatique              | Date : ____
-- ⬜ Jour 4    — Automatisation #1 : résumé automatique PDF      | Date : ____
-- ⬜ Jour 5 — Automatisation #2 : qualification de leads      | Date : ____
-- ⬜ Application — Démo n8n packagée pour client                   | Date : ____
 
-Notes : _______________________________________________
+| Statut | Jour        | Sujet                                              | Date |
+|:------:|-------------|----------------------------------------------------|------|
+|   ⬜   | Jour 1      | n8n en local (Docker) — workflow basique           | —    |
+|   ⬜   | Jour 2      | Intégrer un LLM dans un workflow n8n               | —    |
+|   ⬜   | Jour 3      | Webhook → IA → réponse automatique                 | —    |
+|   ⬜   | Jour 4      | Automatisation #1 : résumé automatique PDF         | —    |
+|   ⬜   | Jour 5      | Automatisation #2 : qualification de leads         | —    |
+|   ⬜   | Application | Démo n8n packagée pour client                      | —    |
+
+**Notes** : _______________________________________________
 
 #### Semaine 19 — Semaine tampon / rattrapage Phase 4
-- ⬜ Tâches à rattraper / approfondir : _______________________  | Date : ____
 
-Notes : _______________________________________________
+| Statut | Tâches à rattraper / approfondir                              | Date |
+|:------:|---------------------------------------------------------------|------|
+|   ⬜   | _______________________________________________               | —    |
+
+**Notes** : _______________________________________________
 
 ✅ **PHASE 4 TERMINÉE le** : ____________
 
@@ -221,16 +278,18 @@ Notes : _______________________________________________
 
 ### 🔴 Phase 5 — Freelance IA Ready (6 semaines)
 
-- **Semaine 20** — ⬜ 4 fiches offres IA (chatbot, doc, scoring, n8n)  | Date : ____
-- **Semaine 21** — ⬜ Démo live chatbot RAG + pitch 5 min               | Date : ____
-- **Semaine 22** — ⬜ Template devis IA + CGV basiques                  | Date : ____
-- **Semaine 23** — ⬜ Malt + LinkedIn + Tefy Labs optimisés             | Date : ____
-- **Semaine 24** — ⬜ Simulateur de coûts projet IA                     | Date : ____
-- **Semaine 25** — ⬜ 10 contacts, 1 conversation engagée minimum       | Date : ____
+| Statut | Semaine     | Objectif de la semaine                              | Date |
+|:------:|-------------|-----------------------------------------------------|------|
+|   ⬜   | Semaine 20  | 4 fiches offres IA (chatbot, doc, scoring, n8n)     | —    |
+|   ⬜   | Semaine 21  | Démo live chatbot RAG + pitch 5 min                 | —    |
+|   ⬜   | Semaine 22  | Template devis IA + CGV basiques                    | —    |
+|   ⬜   | Semaine 23  | Malt + LinkedIn + Tefy Labs optimisés               | —    |
+|   ⬜   | Semaine 24  | Simulateur de coûts projet IA                       | —    |
+|   ⬜   | Semaine 25  | 10 contacts, 1 conversation engagée minimum         | —    |
 
-Client/POC en cours : _________________________________
+**Client/POC en cours** : _________________________________
 
-Notes : _______________________________________________
+**Notes** : _______________________________________________
 
 ✅ **PHASE 5 TERMINÉE le** : ____________
 
@@ -238,12 +297,14 @@ Notes : _______________________________________________
 
 ### ⚫ Phase 6 — Scaling & Positionnement (4 semaines)
 
-- **Semaine 26** — Templates et automatisation interne                | Date : ____
-- **Semaine 27** — Cloud ML basique (AWS Bedrock ou GCP Vertex)       | Date : ____
-- **Semaine 28** — Open source vs APIs payantes                       | Date : ____
-- **Semaine 29** — Connexion Tefy Labs + limites légales              | Date : ____
+| Statut | Semaine     | Objectif de la semaine                              | Date |
+|:------:|-------------|-----------------------------------------------------|------|
+|   ⬜   | Semaine 26  | Templates et automatisation interne                 | —    |
+|   ⬜   | Semaine 27  | Cloud ML basique (AWS Bedrock ou GCP Vertex)        | —    |
+|   ⬜   | Semaine 28  | Open source vs APIs payantes                        | —    |
+|   ⬜   | Semaine 29  | Connexion Tefy Labs + limites légales               | —    |
 
-Notes : _______________________________________________
+**Notes** : _______________________________________________
 
 ✅ **PHASE 6 TERMINÉE le** : ____________
 
