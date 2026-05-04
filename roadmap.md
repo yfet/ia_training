@@ -17,7 +17,7 @@
 | Statut | Jour        | Sujet                                              | Date       |
 |:------:|-------------|----------------------------------------------------|------------|
 |   ✅   | Jour 1      | Types, listes, dicts, fonctions, classes           | 2026-05-04 |
-|   ⬜   | Jour 2      | Modules, pip, environnements virtuels              | —          |
+|   ✅   | Jour 2      | Modules, pip, environnements virtuels              | 2026-05-04 |
 |   ⬜   | Jour 3      | Fichiers CSV, JSON                                 | —          |
 |   ⬜   | Jour 4      | List comprehensions, lambdas, gestion erreurs      | —          |
 |   ⬜   | Jour 5      | NumPy — tableaux et opérations vectorielles        | —          |
