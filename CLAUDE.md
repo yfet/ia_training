@@ -22,19 +22,37 @@ Temps disponible : **8h/semaine** (1h/jour lun-ven + 3h week-end).
 
 Les fichiers de **documentation** (`roadmap.md`, `CLAUDE.md`, `README.md`) ne sont pas concernés par cette restriction — Claude peut les créer/modifier sur demande.
 
-## Workflow d'un jour de roadmap
+## Workflow d'un jour de roadmap (trunk-based, automatisé)
 
 1. L'utilisateur dit : **"Je commence Semaine X / Jour Y"**
 2. Claude donne le programme du jour : contexte business + concepts + exercices guidés (sans coder à sa place)
 3. L'utilisateur écrit son code dans un fichier dédié (ex: `semaine1_jour2_.py`)
 4. Claude valide via questions de compréhension
-5. Une fois validé : l'utilisateur crée une branche git + commit
-   - **Branche** : `phase{N}/semaine{X}-jour{Y}-{topic-court}`
-     ex : `phase1/semaine1-jour1-python-bases`
-   - **Commit** : format conventionnel français
-     ex : `feat(semaine1): jour 1 — types, listes, dicts, fonctions, classes`
+5. **Validation passée → Claude exécute automatiquement la séquence git** (sans attendre une demande explicite) :
+   - Mettre à jour `roadmap.md` : `⬜` → `✅` + date du jour (format `YYYY-MM-DD`)
+   - Stage + commit sur la branche feature courante
+   - Push de la branche feature
+   - **Merge dans `main`** : `git checkout main && git merge --ff-only <branche> && git push origin main`
+   - Confirmer à l'utilisateur l'état final (commits, push, merge)
 
-L'utilisateur gère git lui-même. Claude ne push pas, ne merge pas, ne commit pas sans demande explicite.
+**Format commit attendu** :
+- Titre : `feat(semaine{X}): jour {Y} — {résumé court}`
+- Corps en français, listant les concepts couverts et les fichiers ajoutés/modifiés
+- Co-author : `Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>`
+
+**Démarrage d'un nouveau Jour** (à proposer à l'utilisateur en début de session) :
+```bash
+git checkout main && git pull
+git checkout -b phase{N}/semaine{X}-jour{Y}-{topic-court}
+touch semaine{X}_jour{Y}_.py
+```
+
+**Conventions de nommage** :
+- Branche : `phase{N}/semaine{X}-jour{Y}-{topic-en-kebab-case}`
+  ex : `phase1/semaine1-jour3-csv-json`
+- Fichier exercice : `semaine{X}_jour{Y}_.py`
+
+**Important** : Claude ne fait pas d'autres opérations git destructives (force push, reset, rebase de main, suppression de branches…) sans demande explicite.
 
 ## Contraintes matérielles
 
