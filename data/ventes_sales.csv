@@ -1,0 +1,12 @@
+id,client,produit,quantite,prix_unitaire,date
+1,Alice Rakoto,Ordinateur portable,1,1200.00,2026-04-12
+2,Bob Andriana,Souris sans fil,3,25.50,2026-04-12
+3,,Clavier mécanique,2,89.90,2026-04-13
+4,David Razaf,Écran 27 pouces,abc,349.00,2026-04-13
+5,Eva Tsiry,"Casque audio, premium",1,180.00,2026-04-14
+6,Alice Rakoto,Souris sans fil,2,N/A,2026-04-15
+7,François Naha,Webcam HD,1,75.00,2026-04-15
+8,Bob Andriana,Disque SSD 1To,1,110.00,
+9,Claire Rabe,Hub USB-C,4,32.00,2026-04-17
+10,David Razaf,Clavier mécanique,-1,89.90,2026-04-18
+11,Alice Rakoto,Câble HDMI,5,12.50,2026-04-19

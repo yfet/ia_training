@@ -19,7 +19,7 @@
 |   ✅   | Jour 1      | Types, listes, dicts, fonctions, classes           | 2026-05-04 |
 |   ✅   | Jour 2      | Modules, pip, environnements virtuels              | 2026-05-04 |
 |   ✅   | Jour 3      | Fichiers CSV, JSON                                 | 2026-05-05 |
-|   ⬜   | Jour 4      | List comprehensions, lambdas, gestion erreurs      | —          |
+|   ✅   | Jour 4      | List comprehensions, lambdas, gestion erreurs      | 2026-05-05 |
 |   ⬜   | Jour 5      | NumPy — tableaux et opérations vectorielles        | —          |
 |   ⬜   | Application | Mini-projet : script stats sur CSV                 | —          |
 
