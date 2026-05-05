@@ -1,0 +1,17 @@
+{
+  "genere_le": "2026-05-05T18:33:28.181818",
+  "ca_total": 2439.2000000000003,
+  "nb_ventes": 10,
+  "meilleur_client": {
+    "nom": "Alice Rakoto",
+    "montant": 1251.0
+  },
+  "ca_par_client": {
+    "Alice Rakoto": 1251.0,
+    "Bob Andriana": 186.5,
+    "Claire Rabe": 307.8,
+    "David Razaf": 438.9,
+    "Eva Tsiry": 180.0,
+    "François Naha": 75.0
+  }
+}
